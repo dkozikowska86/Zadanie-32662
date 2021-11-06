@@ -1,13 +1,11 @@
-
-
- h1 {
+h1 {
     color: #0000ff;
     text-align: center;
     line-height: 1.5;
 }
 
-
-p {display: block;
+p {
+    display: block;
     margin-left: 200px;
     margin-right: 200px;
     font-size: 1.5em;
@@ -15,4 +13,6 @@ p {display: block;
     text-align: center;
 }
 
-span{color: #ff0000;}
+span{
+    color: #ff0000;
+}
